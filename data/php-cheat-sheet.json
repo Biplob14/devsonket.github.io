@@ -98,6 +98,30 @@
               },{
                 "definition": "স্ট্রিংয়ের ওয়ার্ড গণনা",
                 "code": "str_word_count(something)"
+              },{
+                "definition": "স্ট্রিংয়ের অংশ রিটার্ন করা",
+                "code": "substr(something)"
+              },{
+                "definition": "স্ট্রিং উল্টো প্রিন্ট করা",
+                "code": "strrev(something)"
+              },{
+                "definition": "দুটি স্ট্রিংয়ের তুলনা করা",
+                "code": "strcmp(something)"
+              },{
+                "definition": "স্ট্রিংয়ের শুরুতে এবং শেষে স্পেইস্ বাদ দেয়া",
+                "code": "trim(something)"
+              },{
+                "definition": "স্ট্রিংয়ের শুরুতে/বামে স্পেইস্ বাদ দেয়া",
+                "code": "ltrim(something)"
+              },{
+                "definition": "স্ট্রিংয়ের শেষে/ডানে স্পেইস্ বাদ দেয়া",
+                "code": "rrim(something)"
+              },{
+                "definition": "স্ট্রিংকে অ্যারে তে ভাগ করা",
+                "code": "explode(something)"
+              },{
+                "definition": "অ্যারেকে স্ট্রিংএ পরিনত করা",
+                "code": "implode(something)"
               }
             ]
         }
